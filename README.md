@@ -13,34 +13,34 @@
 
 ## 👨‍💻 About Me
 
-Applied AI engineer bridging theory and implementation. I build systems from the ground up—whether that's neural networks from scratch in NumPy or production-grade agents with modern frameworks.
+I'm an applied AI engineer focused on bridging the gap between mathematical foundations and production systems. I believe in understanding the tools I use—whether that's implementing backprop from scratch or optimizing models for deployment.
 
 📍 Building in public  
-📫 Reach me: [![Gmail](https://img.shields.io/badge/-by.aayankhan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:by.aayankhan@gmail.com)  
-💼 Open to opportunities: [![Open to Work](https://img.shields.io/badge/Open%20to-Work-28a745?style=flat)](mailto:by.aayankhan@gmail.com)
+📫 **by.aayankhan@gmail.com**  
+💼 Open to opportunities — [email me](mailto:by.aayankhan@gmail.com)
 
 ---
 
-## 🔭 Focus
+## 🔭 Focus Areas
 
-Engineering robust AI systems with mathematical rigor.
+I work at the intersection of theory and practice, with particular interest in:
 
-* Machine Learning systems & MLOps  
-* Deep learning architectures & optimization  
-* Reinforcement learning & sequential decision-making  
-* End-to-end AI product development  
+- **ML systems & MLOps** – building reliable, scalable pipelines  
+- **Deep learning** – architecture design, optimization, and debugging  
+- **Reinforcement learning** – sequential decision-making under uncertainty  
+- **End-to-end AI products** – from problem definition to deployed solution  
 
 ---
 
 ## ⚙️ Current Work
 
-* **Mastering AI** — Advancing through the full stack of modern AI: from low-level tensor operations and custom autograd engines to large-scale model training and deployment strategies  
-* Implementing core ML algorithms from scratch to build mathematical intuition  
-* Shipping small, complete AI projects end-to-end  
+- **Mastering the full AI stack** — Implementing autograd engines, training transformers from scratch, and scaling models beyond notebooks  
+- Building small, focused AI projects to deepen my understanding of core concepts  
+- Curating a portfolio of clean, production-ready implementations (coming soon)
 
 ---
 
-## 🧰 Stack
+## 🧰 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,numpy,pytorch,git,linux,vscode&theme=dark" />
@@ -52,7 +52,7 @@ Engineering robust AI systems with mathematical rigor.
 
 ## 📌 Featured Projects
 
-*Coming soon — rebuilding my project portfolio with focus on production-ready implementations.*
+*Currently refreshing my repositories — I'll be sharing a few implementations I'm proud of in the coming weeks.*
 
 ---
 
